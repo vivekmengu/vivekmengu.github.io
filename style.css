@@ -1,0 +1,55 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('fonts/icomoon.eot?-y5xivk');
+	src:url('fonts/icomoon.eot?#iefix-y5xivk') format('embedded-opentype'),
+		url('fonts/icomoon.woff?-y5xivk') format('woff'),
+		url('fonts/icomoon.ttf?-y5xivk') format('truetype'),
+		url('fonts/icomoon.svg?-y5xivk#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-men-hoodie .path1:before {
+	content: "\e600";
+	color: rgb(99, 140, 63);
+}
+.icon-men-hoodie .path2:before {
+	content: "\e601";
+	margin-left: -0.9375em;
+	color: rgb(136, 192, 87);
+}
+.icon-men-hoodie .path3:before {
+	content: "\e602";
+	margin-left: -0.9375em;
+	color: rgb(230, 230, 230);
+}
+.icon-men-hoodie .path4:before {
+	content: "\e603";
+	margin-left: -0.9375em;
+	color: rgb(117, 166, 75);
+}
+.icon-men-hoodie .path5:before {
+	content: "\e604";
+	margin-left: -0.9375em;
+	color: rgb(81, 115, 52);
+}
+.icon-men-hoodie .path6:before {
+	content: "\e605";
+	margin-left: -0.9375em;
+	color: rgb(117, 166, 75);
+}
+
